@@ -2,7 +2,7 @@ package pstring
 
 import "unicode/utf8"
 
-// 统计字符串长度
+// Strlen 统计字符串长度
 func Strlen(s string) int {
 	if s == "" {
 		return 0
