@@ -1,4 +1,4 @@
-package php_to_golang_func
+package demo
 
 import "fmt"
 
